@@ -1,4 +1,117 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://183.24.48.6:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.99.163.243:8808/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://116.23.96.120:50000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.110.201.133:8888/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://183.7.117.206:8088/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://59.38.62.213:2052/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.67.165.237:8888/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://116.5.168.204:8884/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.117.104.170:8800/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://14.153.161.94:8888/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.65.95.134:10000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://121.32.204.88:9999/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://183.31.9.200:9001/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://121.13.84.65:8000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://14.149.140.8:6000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://116.28.99.176:10001/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.93.54.251:5555/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://116.18.37.60:4000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.116.43.148:5000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://183.17.236.29:8888/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.66.41.135:10000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://116.28.125.18:5000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://14.117.236.30:9000/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://183.30.201.100:10002/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.93.53.76:5555/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.83.242.247:4022/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://116.4.96.235:4080/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.66.228.67:8090/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://113.64.92.120:8884/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
+http://183.17.237.102:8888/rtp/239.77.0.8:5146
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+118.248.168.52$cache:118.248.168.52
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+114.223.33.240$cache:114.223.33.240
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+121.24.99.66$cache:121.24.99.66
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+183.11.239.36$cache:183.11.239.36
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+117.30.197.132$cache:117.30.197.132
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+1.70.33.48$cache:1.70.33.48
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+49.75.205.36$cache:49.75.205.36
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+171.125.90.130$cache:171.125.90.130
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+113.13.243.199$cache:113.13.243.199
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+111.167.49.238$cache:111.167.49.238
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+178.163.77.75$cache:178.163.77.75
+#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东频道",广东经济科教
+183.128.95.238$cache:183.128.95.238
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+http://terrysg.cn:4000/udp/239.77.0.167:5146$cache:terrysg.cn
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+http://60.208.16.27:1505/gudou.php?id=364&id=GDjingjikejiaoHD_7000$cache:60.208.16.27
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+118.248.168.52$cache:118.248.168.52
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+114.223.33.240$cache:114.223.33.240
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+110.53.21.30$cache:110.53.21.30
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+121.24.98.181$cache:121.24.98.181
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+117.30.197.132$cache:117.30.197.132
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+1.70.33.48$cache:1.70.33.48
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+123.118.231.179$cache:123.118.231.179
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+60.27.20.30$cache:60.27.20.30
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+49.75.205.36$cache:49.75.205.36
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+178.163.31.252$cache:178.163.31.252
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+27.10.134.196$cache:27.10.134.196
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.com/tv/广东经济.png" group-title="广东频道",广东经济
+114.225.190.118$cache:114.225.190.118
 #EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教
 http://183.17.236.29:8888/rtp/239.77.0.85:5146$1920x1080
 #EXTINF:-1 tvg-name="经济科教" tvg-logo="https://live.fanmingming.com/tv/经济科教.png" group-title="广东频道",经济科教

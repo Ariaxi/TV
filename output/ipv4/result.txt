@@ -1,30 +1,16 @@
 🕘️更新时间,#genre#
-2025-10-23 18:22:54,http://1.31.14.70:54321/hls/13/index.m3u8
+2025-10-24 06:18:56,https://60.191.56.186:8888/hls/15/index.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://1.31.14.70:54321/hls/13/index.m3u8
 CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
-CCTV-10,http://1.31.14.70:54321/hls/11/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,http://1.31.14.70:54321/hls/22/index.m3u8
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 
 📡卫视频道,#genre#
-东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 甘肃卫视,http://1.31.14.70:54321/hls/45/index.m3u8
-广西卫视,http://1.31.14.70:54321/hls/36/index.m3u8
-贵州卫视,http://1.31.14.70:54321/hls/33/index.m3u8
 河北卫视,http://1.31.14.70:54321/hls/18/index.m3u8
-河南卫视,http://1.31.14.70:54321/hls/44/index.m3u8
-江西卫视,http://1.31.14.70:54321/hls/42/index.m3u8
-宁夏卫视,http://1.31.14.70:54321/hls/30/index.m3u8
-青海卫视,http://1.31.14.70:54321/hls/43/index.m3u8
-陕西卫视,http://1.31.14.70:54321/hls/46/index.m3u8
-深圳卫视,http://1.31.14.70:54321/hls/40/index.m3u8
-西藏卫视,http://1.31.14.70:54321/hls/52/index.m3u8
-新疆卫视,http://1.31.14.70:54321/hls/31/index.m3u8
-云南卫视,http://1.31.14.70:54321/hls/37/index.m3u8
 
 ☘️广东频道,#genre#
 
@@ -34,13 +20,10 @@ CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40

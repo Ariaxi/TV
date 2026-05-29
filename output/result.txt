@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-29 07:12:35,http://198.204.240.250:82/live/cctv1.m3u8
+2026-05-29 20:47:43,http://198.204.240.250:82/live/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
@@ -36,6 +36,7 @@ CCTV-4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225621/i
 CCTV-4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/index.m3u8
 CCTV-4,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226007/index.m3u8
 CCTV-4,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
+CCTV-5,http://221.13.235.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000305/index.m3u8?channel-id=newtv&livemode=4&Contentid=1110000305
 CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 CCTV-5,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -62,6 +63,7 @@ CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225650/2
 CCTV-6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225632/index.m3u8
 CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+CCTV-7,http://221.13.235.54:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000504
 CCTV-7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
 CCTV-7,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
@@ -130,6 +132,7 @@ CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225640/
 CCTV-14,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225640/2/index.m3u8
 CCTV-14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV-15,http://221.13.235.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 CCTV-15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
 CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
@@ -278,6 +281,7 @@ CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 河北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225610/index.m3u8?fmt=ts2hls
 河北卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226406/index.m3u8
 河北卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://221.13.235.54:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000027
 河南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8
